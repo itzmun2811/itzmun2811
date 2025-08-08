@@ -42,9 +42,8 @@ I'm a dedicated web developer passionate about crating seamless and engaging dig
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzmun2811&show_icons=true&theme=radical)  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzmun2811&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmun2811&layout=compact&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmun2811&theme=radical) |
+|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmun2811&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmun2811&theme=radical)
 
