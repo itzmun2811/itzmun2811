@@ -1,5 +1,5 @@
 ## Hi there 👋 It's Munni!
-
+![Banner](https://i.ibb.co.com/V0C397zw/Red-Modern-Business-Linked-In-Article-Cover-Image.png)
 <!--
 **itzmun2811/itzmun2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
