@@ -39,3 +39,12 @@ I'm a dedicated web developer passionate about crating seamless and engaging dig
 📱 [+8801730233276](https://wa.me/8801730233276)  
 🔗 [LinkedIn Profile](https://linkedin.com/in/itz-mun25)
 
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzmun2811&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmun2811&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmun2811&theme=radical)
+
